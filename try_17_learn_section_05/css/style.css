@@ -1,0 +1,33 @@
+body {
+  background-color: #f8f3eb;
+  margin : 0px;
+  text-align: center;
+}
+/* div {
+  background-color: #ff926b;
+} */
+h1 {
+  margin : 0px;
+}
+.top-con {
+  background-color: #c3edea;
+  /* width : 500px;
+  heigh: 300px;
+  border : solid 10px;
+  padding: 5px; */
+}
+.mid-con {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  /* position: relative;
+  left: 200px; */
+  text-align: center;
+}
+.bott-con {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  bottom: 200px
+}

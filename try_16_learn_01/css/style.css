@@ -1,0 +1,32 @@
+body {
+  background-color:#ffd1bd;
+}
+img {
+  height:200px;
+}
+img:hover {
+  /* height:200px; */
+  background-color: gold;
+}
+hr {
+  height : 0px;
+  border-style : dotted none none;
+  border-color : grey;
+  border-width : 10px;
+  width : 30%;
+}
+.bacon {
+  background-color: red;
+  height : 100px;
+}
+.broccoli {
+  background-color: green;
+  height : 100px;
+}
+#heading{
+  color : blue;
+}
+
+.cir {
+  border-radius: 100%;
+}
